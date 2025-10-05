@@ -34,6 +34,10 @@ https://github.com/user-attachments/assets/d5564e50-bddb-44c5-9b21-790c42340451
 import tailwind ve plugin olarak react(), tailwind()
 
 
+index.css ve app.css i sildim bi tane genel main.css yaptım @import "tailwindcss";
+ koyuyon en başına bitti sonra main.jsx ve app.jsxte importları düzenle sadece main.jsxte main.css olsun kâfi
+
+
 okok?
 
 
