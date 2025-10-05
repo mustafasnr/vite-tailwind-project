@@ -1,16 +1,44 @@
-# React + Vite
+# React + Vite + Tailwind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Kodu yazacağın klasöre explorerda cmd yaz aç
 
-Currently, two official plugins are available:
+# "D:/Programlama/React" benim için
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+npm create latest ile proje oluşturuyon 
 
-## React Compiler
+https://github.com/user-attachments/assets/472fb4dd-85bd-4db7-a158-ca114e8a159e
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+framework ve dil seçimi yapıyosun react ve sadece javascript seç
 
-## Expanding the ESLint configuration
+https://github.com/user-attachments/assets/5077bfa2-0325-439f-9777-7bbc9f6109d0
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+https://github.com/user-attachments/assets/d1ccb0e1-b576-4836-b4ae-d3ee84acef6e
+
+yeni iki tane seçenek eklenmiş ikisini de no işaretle
+
+oluşan klasörü vscode'de aç("D:/Programlama/React/vite-tailwind-project")
+
+npm install yap
+
+## tailwind için
+https://tailwindcss.com/docs/installation/using-vite
+
+sitesine git direkt karşında 
+
+### npm install tailwindcss @tailwindcss/vite terminale yapıştr
+
+sonra # vite.config.js dosyasına iki tane değişiklik yapıyon 
+
+https://github.com/user-attachments/assets/d5564e50-bddb-44c5-9b21-790c42340451
+
+import tailwind ve plugin olarak react(), tailwind()
+
+
+okok?
+
+
+
+
+# SHadcn falan karıştırma önce tailwindi yap sonra shadcn eklemeyi yaparız bra
+
+
